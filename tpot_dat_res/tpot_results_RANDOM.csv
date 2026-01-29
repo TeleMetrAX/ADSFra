@@ -1,0 +1,11 @@
+File,Accuracy,Duration
+fingerprint2_autoencoder_16_best_algorithm.csv,0.5161290322580645,702.9205448627472
+fingerprint2_autoencoder_32_best_algorithm.csv,0.45161290322580644,787.409818649292
+fingerprint2_autoencoder_4_best_algorithm.csv,0.3870967741935484,502.3970561027527
+fingerprint2_autoencoder_8_best_algorithm.csv,0.5,875.8856725692749
+fingerprint2_results_best_algorithm.csv,0.3548387096774194,5274.447283983231
+PLif2_results_best_algorithm.csv,0.43548387096774194,1047.8218553066254
+TS2Vec_16_results_best_algorithm.csv,0.3709677419354839,456.25318360328674
+TS2Vec_32_results_best_algorithm.csv,0.43548387096774194,793.9318110942841
+TS2Vec_4_results_best_algorithm.csv,0.3064516129032258,642.3902354240417
+TS2Vec_8_results_best_algorithm.csv,0.3548387096774194,380.25491070747375

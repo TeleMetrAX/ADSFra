@@ -1,0 +1,8 @@
+Detector Execution Times
+========================
+
+bayesChangePt on IOPS: 2683.73 seconds
+earthgeckoSkyline on IOPS: 5704.06 seconds
+windowedGaussian on IOPS: 1661.97 seconds
+echoStateNetwork on IOPS: 5963.50 seconds
+relativeEntropy on IOPS: 1531.31 seconds

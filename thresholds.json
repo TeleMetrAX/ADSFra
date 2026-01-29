@@ -1,0 +1,128 @@
+{
+    "earthgeckoSkyline": {
+        "standard": {
+            "score": 0.034157732573416144,
+            "threshold": 0.001
+        },
+        "reward_low_FP_rate": {
+            "score": 0.017203994710419456,
+            "threshold": 0.001
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "contextOSE": {
+        "standard": {
+            "score": 0.4501127827752661,
+            "threshold": 0.178
+        },
+        "reward_low_FP_rate": {
+            "score": 0.06382096750119111,
+            "threshold": 0.512
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "bayesChangePt": {
+        "standard": {
+            "score": 0.16549387743683452,
+            "threshold": 0.012
+        },
+        "reward_low_FP_rate": {
+            "score": 0.05941010567865375,
+            "threshold": 0.012
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "windowedGaussian": {
+        "standard": {
+            "score": 0.8347880251625547,
+            "threshold": 0.9390000000000001
+        },
+        "reward_low_FP_rate": {
+            "score": 0.6739417761044812,
+            "threshold": 0.9400000000000001
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "relativeEntropy": {
+        "standard": {
+            "score": 0.18087376668937555,
+            "threshold": 0.001
+        },
+        "reward_low_FP_rate": {
+            "score": 0.09625249716654181,
+            "threshold": 0.001
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "knncad": {
+        "standard": {
+            "score": 0.6994309431718374,
+            "threshold": 0.5
+        },
+        "reward_low_FP_rate": {
+            "score": 0.40939509691528597,
+            "threshold": 0.001
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "isolationForest": {
+        "standard": {
+            "score": 0.0,
+            "threshold": 0.0
+        },
+        "reward_low_FP_rate": {
+            "score": 0.0,
+            "threshold": 0.0
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "halfSpaceTree": {
+        "standard": {
+            "score": 0.0,
+            "threshold": 0.0
+        },
+        "reward_low_FP_rate": {
+            "score": 0.0,
+            "threshold": 0.0
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    },
+    "echoStateNetwork": {
+        "standard": {
+            "score": 0.6315825916171457,
+            "threshold": 0.491
+        },
+        "reward_low_FP_rate": {
+            "score": 0.3498981486435959,
+            "threshold": 0.681
+        },
+        "reward_low_FN_rate": {
+            "score": 1.0,
+            "threshold": 0.0
+        }
+    }
+}
